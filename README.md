@@ -7,7 +7,7 @@ A mouse jiggler completely made in Powershell. This is so hopefully you can run 
 
 - Customizable Time
 
-If you set the time below 2000 milliseconds, it might be a challenge to stop the mouse jiggling program.
+If you set the time below 2000 milliseconds, it might be a challenge to stop the mouse jiggling program. (line 8)
 
 
 
